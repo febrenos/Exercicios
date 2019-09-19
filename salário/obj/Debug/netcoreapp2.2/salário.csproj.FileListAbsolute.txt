@@ -1,0 +1,4 @@
+C:\Users\52734673819\Documents\EXERCÍCIOS\salário\obj\Debug\netcoreapp2.2\salário.csprojAssemblyReference.cache
+C:\Users\52734673819\Documents\EXERCÍCIOS\salário\obj\Debug\netcoreapp2.2\salário.csproj.CoreCompileInputs.cache
+C:\Users\52734673819\Documents\EXERCÍCIOS\salário\obj\Debug\netcoreapp2.2\salário.AssemblyInfoInputs.cache
+C:\Users\52734673819\Documents\EXERCÍCIOS\salário\obj\Debug\netcoreapp2.2\salário.AssemblyInfo.cs
