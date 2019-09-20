@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\52734673819\\Documents\\Exerc-cios\\salário\\salário.csproj",
-      "projectName": "salário",
-      "projectPath": "C:\\Users\\52734673819\\Documents\\Exerc-cios\\salário\\salário.csproj",
+      "projectUniqueName": "C:\\Users\\52734673819\\Documents\\Exerc-cios\\impar\\centésimo\\centésimo.csproj",
+      "projectName": "centésimo",
+      "projectPath": "C:\\Users\\52734673819\\Documents\\Exerc-cios\\impar\\centésimo\\centésimo.csproj",
       "packagesPath": "C:\\Users\\52734673819\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\52734673819\\Documents\\Exerc-cios\\salário\\obj\\",
+      "outputPath": "C:\\Users\\52734673819\\Documents\\Exerc-cios\\impar\\centésimo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

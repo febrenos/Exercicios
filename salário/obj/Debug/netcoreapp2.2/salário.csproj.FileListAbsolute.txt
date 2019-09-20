@@ -2,3 +2,14 @@ C:\Users\52734673819\Documents\EXERCÍCIOS\salário\obj\Debug\netcoreapp2.2\sal�
 C:\Users\52734673819\Documents\EXERCÍCIOS\salário\obj\Debug\netcoreapp2.2\salário.csproj.CoreCompileInputs.cache
 C:\Users\52734673819\Documents\EXERCÍCIOS\salário\obj\Debug\netcoreapp2.2\salário.AssemblyInfoInputs.cache
 C:\Users\52734673819\Documents\EXERCÍCIOS\salário\obj\Debug\netcoreapp2.2\salário.AssemblyInfo.cs
+C:\Users\52734673819\Documents\Exerc-cios\salário\obj\Debug\netcoreapp2.2\salário.csprojAssemblyReference.cache
+C:\Users\52734673819\Documents\Exerc-cios\salário\obj\Debug\netcoreapp2.2\salário.csproj.CoreCompileInputs.cache
+C:\Users\52734673819\Documents\Exerc-cios\salário\obj\Debug\netcoreapp2.2\salário.AssemblyInfoInputs.cache
+C:\Users\52734673819\Documents\Exerc-cios\salário\obj\Debug\netcoreapp2.2\salário.AssemblyInfo.cs
+C:\Users\52734673819\Documents\Exerc-cios\salário\bin\Debug\netcoreapp2.2\salário.deps.json
+C:\Users\52734673819\Documents\Exerc-cios\salário\bin\Debug\netcoreapp2.2\salário.runtimeconfig.json
+C:\Users\52734673819\Documents\Exerc-cios\salário\bin\Debug\netcoreapp2.2\salário.runtimeconfig.dev.json
+C:\Users\52734673819\Documents\Exerc-cios\salário\bin\Debug\netcoreapp2.2\salário.dll
+C:\Users\52734673819\Documents\Exerc-cios\salário\bin\Debug\netcoreapp2.2\salário.pdb
+C:\Users\52734673819\Documents\Exerc-cios\salário\obj\Debug\netcoreapp2.2\salário.dll
+C:\Users\52734673819\Documents\Exerc-cios\salário\obj\Debug\netcoreapp2.2\salário.pdb
