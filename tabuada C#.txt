@@ -1,0 +1,24 @@
+using System;
+	
+namespace Tabuada
+{
+	class Program
+	{
+		static void Main(string[] args)
+		{
+			int numero, resultado;
+				
+			Console.WriteLine("numero de qual tabuada?");
+			numero = Convert.ToInt16(Console.ReadLine());
+			Console.clear();
+
+			for(int x = 0; x <= 100; x++)
+			{
+				resultado = numero * x;
+				Console.WriteLine(x+" * "+numero+" = "+resultado);
+			}
+
+			Console.ReadLine();
+		}
+	}
+} 
