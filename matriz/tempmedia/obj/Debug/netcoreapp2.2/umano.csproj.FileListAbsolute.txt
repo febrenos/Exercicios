@@ -1,0 +1,11 @@
+C:\Users\52734673819\Documents\Exerc-cios\matriz\tempmedia\bin\Debug\netcoreapp2.2\umano.deps.json
+C:\Users\52734673819\Documents\Exerc-cios\matriz\tempmedia\bin\Debug\netcoreapp2.2\umano.runtimeconfig.json
+C:\Users\52734673819\Documents\Exerc-cios\matriz\tempmedia\bin\Debug\netcoreapp2.2\umano.runtimeconfig.dev.json
+C:\Users\52734673819\Documents\Exerc-cios\matriz\tempmedia\bin\Debug\netcoreapp2.2\umano.dll
+C:\Users\52734673819\Documents\Exerc-cios\matriz\tempmedia\bin\Debug\netcoreapp2.2\umano.pdb
+C:\Users\52734673819\Documents\Exerc-cios\matriz\tempmedia\obj\Debug\netcoreapp2.2\umano.csprojAssemblyReference.cache
+C:\Users\52734673819\Documents\Exerc-cios\matriz\tempmedia\obj\Debug\netcoreapp2.2\umano.csproj.CoreCompileInputs.cache
+C:\Users\52734673819\Documents\Exerc-cios\matriz\tempmedia\obj\Debug\netcoreapp2.2\umano.AssemblyInfoInputs.cache
+C:\Users\52734673819\Documents\Exerc-cios\matriz\tempmedia\obj\Debug\netcoreapp2.2\umano.AssemblyInfo.cs
+C:\Users\52734673819\Documents\Exerc-cios\matriz\tempmedia\obj\Debug\netcoreapp2.2\umano.dll
+C:\Users\52734673819\Documents\Exerc-cios\matriz\tempmedia\obj\Debug\netcoreapp2.2\umano.pdb
