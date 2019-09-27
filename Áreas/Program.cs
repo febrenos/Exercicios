@@ -1,45 +1,92 @@
 ﻿using System;
-
-namespace idade
+namespace area
 {
     class Program
     {
         static void Main(string[] args)
         {
+            string opcao = "";
             Console.WriteLine("Calcula Area");
-           Console.WriteLine("1 - quadrado"); 
-           Console.WriteLine("2 - triangulo");
-           Console.WriteLine("3 - circulo"); 
-           Console.WriteLine("4 - trapezio");
-           Console.WriteLine("5 - losango");
-           Console.WriteLine("6 - retangulo");
-           Console.Write("escolha uma opção: "); 
-           string Oper;
-           Opcao = Console.ReadLine();
-
-
-            switch(apcao){
+            Console.WriteLine("1 - Triangulo");
+            Console.WriteLine("2 - Quadrado");
+            Console.WriteLine("3 - Losango");
+            Console.WriteLine("4 - Trapezio");
+            Console.WriteLine("5 - Retangulo");
+            Console.WriteLine("6 - Circulo");
+            Console.WriteLine("7 - Bhaskara");
+            Console.WriteLine("Digite o número desejado:");
+            opcao = Console.ReadLine();
+            switch (opcao)
+            {
                 case "1":
-                Console.WritwLine("Area do quadrado");
-                Console.write("Digite a base: ")
-                double basetri = double.Parse(Console.ReadLine());
-                Console.Write("Digite a Altura:");
-                double altTri = double.Parse(Console.ReadLine());
-                double areaTri = (basetri * altTRi) / 2;
-                Console.WriteLine("A area do triangulo é: " + areaTri);
+                    Console.WriteLine("Área do Triangulo");
+                    Console.WriteLine("Fómula: base * altura / 2");
+                    Console.Write("Digite o valor da Base: ");
+                    double baseTri = double.Parse(Console.ReadLine());
+                    Console.Write("Digite o valor da altura:");
+                    double altTri = double.Parse(Console.ReadLine());
+                    double areaTri = (baseTri * altTri) / 2;
+                    Console.WriteLine("A área do triangulo é: " + areaTri);
+                    break;
+                case "2":
+                    Console.WriteLine("Área do Quadrado");
+                    Console.Write("Digite o valor da base:");
+                    double baseQuad = double.Parse(Console.ReadLine());
+                    Console.Write("Digite o valor da altura:");
+                    double altQuad = double.Parse(Console.ReadLine());
+                    double areaQuad = (altQuad * baseQuad);
+                    Console.WriteLine("A área do quadrado é: " + areaQuad);
+                    break;
+                case "3":
+                    Console.WriteLine("Área do Loosango");
+                    Console.Write("Digite o valor da diagonal maior:");
+                    double diagmaLosang = double.Parse(Console.ReadLine());
+                    Console.Write("Digite o valor da diagonal menor:");
+                    double diagmeLosang = double.Parse(Console.ReadLine());
+                    double areaLosang = (diagmaLosang * diagmeLosang / 2);
+                    Console.WriteLine("A área do quadrado é: " + areaQuad);
+                    break;
+                case "4":
+                    Console.WriteLine("Área do Trapézio");
+                    Console.Write("Digite o valor da base maior:");
+                    double basemaTrap = double.Parse(Console.ReadLine());
+                    Console.Write("Digite o valor da base menor:");
+                    double basemeTrap = double.Parse(Console.ReadLine());
+                    Console.Write("Digite o valor da altura:");
+                    double altTrap = double.Parse(Console.ReadLine());
+                    double areaTrap = (basemaTrap + basemeTrap * altTrap / 2);
+                    Console.WriteLine("A área do quadrado é: " + areaQuad);
+                    break;
+                case "5":
+                    Console.WriteLine("Área do Retangulo");
+                    Console.Write("Digite o valor da base:");
+                    double baseRet = double.Parse(Console.ReadLine());
+                    Console.Write("Digite o valor da altura:");
+                    double altRet = double.Parse(Console.ReadLine());
+                    double areaRet = (baseRet * altRet);
+                    Console.WriteLine("A área do Retangulo é: " + areaQuad);
+                    break;
+                case "6":
+                    Console.WriteLine("Área do Circulo");
+                    Console.Write("Digite o valor de Pi:");
+                    double piCirc = double.Parse(Console.ReadLine());
+                    Console.Write("Digite o valor do raio:");
+                    double raioCirc = double.Parse(Console.ReadLine());
+                    double raioCirc = double.Parse(Console.ReadLine());
+                    double areaQuad = (piCirc * raioCirc );
+                    Console.WriteLine("A área do Circulo é: " + areaQuad);
                 break;
-            } 
-
-            case "2"
-                Console.WriteLine("area do Quadrado");
-                Console.Write("Qual o lado do quadrado? ");
-                double ladoQuad = double.Parse(Console.ReadLine());
-                double ladoQuad = ladoQuad * ladoQuad;
-                Console.WriteLine("A área do quadrado é: " + areaQuad);
+                case "7":
+                    Console.WriteLine("Bhaskara");
+                    Console.Write("Digite o valor da base:");
+                    double baseQuad = double.Parse(Console.ReadLine());
+                    Console.Write("Digite o valor da altura:");
+                    double altQuad = double.Parse(Console.ReadLine());
+                    double areaQuad = (altQuad * baseQuad);
+                    Console.WriteLine("O valor do Bhaskara é: " + areaQuad);
                 break;
+                }
             }
-
-
         }
     }
 }
