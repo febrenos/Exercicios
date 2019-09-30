@@ -1,0 +1,4 @@
+C:\Users\52734673819\Documents\Exerc-cios\mateodragao\obj\Debug\netcoreapp2.2\mateodragao.csprojAssemblyReference.cache
+C:\Users\52734673819\Documents\Exerc-cios\mateodragao\obj\Debug\netcoreapp2.2\mateodragao.csproj.CoreCompileInputs.cache
+C:\Users\52734673819\Documents\Exerc-cios\mateodragao\obj\Debug\netcoreapp2.2\mateodragao.AssemblyInfoInputs.cache
+C:\Users\52734673819\Documents\Exerc-cios\mateodragao\obj\Debug\netcoreapp2.2\mateodragao.AssemblyInfo.cs

@@ -28,6 +28,15 @@ namespace alunos
             int bimestre = int.Parse(Console.ReadLine());
             Aluno aluno3 = new Aluno(nome,cpf,curso);
             aluno3.setNotas(bimestre,nota);
-        }
+
+            Console.WriteLine("Nome: " +   aluno3.Nome);
+            Console.WriteLine("Curso: " + aluno3.Curso);
+            Console.WriteLine("Cpf: " +   aluno3.Cpf);
+            Console.WriteLine("Notas: ");
+            foreach(int n in aluno3.getNotas()){
+                Console.Write(nota + " ");
+            }
+            Console.WriteLine();
+        }  
     }
 }

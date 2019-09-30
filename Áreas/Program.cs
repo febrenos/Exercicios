@@ -68,12 +68,9 @@ namespace area
                     break;
                 case "6":
                     Console.WriteLine("Área do Circulo");
-                    Console.Write("Digite o valor de Pi:");
-                    double piCirc = double.Parse(Console.ReadLine());
                     Console.Write("Digite o valor do raio:");
                     double raioCirc = double.Parse(Console.ReadLine());
-                    double raioCirc = double.Parse(Console.ReadLine());
-                    double areaQuad = (piCirc * raioCirc );
+                    double areaQuad = (3,1415 * raioCirc * raioCirc);
                     Console.WriteLine("A área do Circulo é: " + areaQuad);
                 break;
                 case "7":
