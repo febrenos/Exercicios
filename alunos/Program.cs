@@ -28,8 +28,7 @@ namespace alunos
             int i =bi -1;
             if((i < 0) || nota){
                 throw new ArgumentException($"{")
-            }
-
+                
         }
     }
 }
