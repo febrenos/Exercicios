@@ -18,7 +18,6 @@ namespace alunos
         public Aluno(string Nome, string Cpf, string Curso){
             this.Nome = Nome;
             this.Cpf = Cpf;
-            this.Curso = Cpf;
         }
 
         //métodos de Acesso
