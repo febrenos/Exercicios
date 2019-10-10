@@ -52,6 +52,7 @@ namespace Todolist
                         break;
                     case 3:
                         System.Console.WriteLine("Tchau!");
+                        Saveitem (todoList ,filePath);
                         break;
                     default:
                         System.Console.WriteLine("opcao inválida");
@@ -68,10 +69,10 @@ namespace Todolist
             System.Console.WriteLine("Todo list");
             System.Console.WriteLine();
             System.Console.WriteLine($"ID{"",2}Título{"",12} Notas");
-            foreach (TodoItem item in todoList)
+            foreach (TodoItem item in todoList);
             {
                 System.Console.WriteLine($"{count, 3}: {item.Titulo, -15} - {item.Nota}");
-                count++;
+                count ++;
             }
         }
 
@@ -120,6 +121,36 @@ namespace Todolist
                 }
 
             } while(true);
+
+        static void SaveItem(List<TodoItem> lista, string filePath)
+        { 
+            List<string> linhas = new List<string>();
+            linhas.Add("tile,note");
+            foreach(TodoItem item in lista){
         }
+            string titulo = "\"" + AddItem.Title + "\"";
+            string nota = "\"" + AddItem.Note + "\"";
+            linhas.Add(titulo + "," + nota){
+        }
+        string tryAgain = "";
+        {
+        do
+        {
+            try
+            {
+                File.WriteAllLines(filePath, linhas);
+            }
+            catch (IOxcepition e)
+            {
+                Console.WriteLine("Erro na gravação do arquivo.");
+                Console.WriteLine(e.Messege);
+                do
+                {
+                    Console.WriteLine("Deseja tentar novamente (S/N)?")
+                    tryAgain = Console.ReadLine().Tolower();
+
+                }  While (tryAgain == "s" || tryAgain == "n");
+            }
+        } While (tryAgain !="n");
     }
 }

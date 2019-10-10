@@ -7,15 +7,64 @@ namespace teste
     {
         static void Main(string[] args)
         {
-            System.Console.WriteLine("preencha as perguntas ");
-            Console.Write("Nome: ");
-            string Nome = Console.ReadLine();
-            Console.Write("data de nascimento: ");
-            int DataNascimento = int.Parse(Console.ReadLine());
-            Console.Write("curso: ");
-            string Curso = Console.ReadLine();
-            Console.Write("Qual o número da sala: ");
-            int NumeroSala = int.Parse(Console.ReadLine());
+            int limiteAlunos = 10;
+            int limiteSalas = 10;
+            Aluno[] alunos = new Aluno[100];
+            Sala[] salas   = new Sala[10];
+            //bool querSair;
+
+
+
+
         }
-    }
+
+        public void CadastrarAluno(Alunos[] alunos, int totalAluno, int alunosCadastrados)
+        {
+            if(totalAluno < alunosCadastrados)
+            {
+                Console.WriteLine("cadastro de alunos");
+                Console.WriteLine();
+                Console.Write("Nome: ");
+                string nome = Console.ReadLine();
+                Console.Write("DT Nascimento:");
+                DateTime dtNascimento = DateTime.Parse(Console.ReadLine());
+
+                Aluno novoAluno = new Aluno();
+                novoAlunoAluno.Nome = nome;
+                novoAluno.DataNascimento = dtNascimento;
+
+                int index = 0;
+                foreach(Alunos aluno in aluno)
+                {
+                    if (aluno == null)
+                    {
+                        aluno[index] = novoAluno;
+                        break;
+                    }
+                    index ++;
+                }
+                alunosCadastrados++;
+            }
+        }
+        public void CadastrarSala()
+        {
+            
+        }
+        public void AlocarAluno()
+        {
+            
+        }     
+        public void RemoverAluno()
+        {
+            
+        }
+        public void VerificarSalas()
+        {
+            
+        }
+        public void VerificarAlunos()
+        {
+
+        }
+    }   
 }
