@@ -42,14 +42,15 @@ namespace matriz
             int par = 0;
             
             int[] vetor = new int [6];
-            for (int cont = 0; cont < 6; cont++){
+            for (int cont = 0; cont < 6; cont++)
+            {
                 Console.Write($"Digite o {cont} número: ");
                 vetor[cont] = int.Parse(Console.ReadLine());
-           }
+            }
 
             foreach(int num in vetor){
                 if(num % 2 == 0){
-                    Par++;
+                    par++;
                 } else {
                     impar++;
                 }

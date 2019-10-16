@@ -1,0 +1,4 @@
+C:\Users\52734673819\Documents\Exerc-cios\EscolaDeRock\obj\Debug\netcoreapp2.2\musica.csprojAssemblyReference.cache
+C:\Users\52734673819\Documents\Exerc-cios\EscolaDeRock\obj\Debug\netcoreapp2.2\musica.csproj.CoreCompileInputs.cache
+C:\Users\52734673819\Documents\Exerc-cios\EscolaDeRock\obj\Debug\netcoreapp2.2\musica.AssemblyInfoInputs.cache
+C:\Users\52734673819\Documents\Exerc-cios\EscolaDeRock\obj\Debug\netcoreapp2.2\musica.AssemblyInfo.cs

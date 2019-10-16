@@ -12,13 +12,9 @@ namespace teste
             Aluno[] alunos = new Aluno[100];
             Sala[] salas   = new Sala[10];
             //bool querSair;
-
-
-
-
         }
 
-        public void CadastrarAluno(Alunos[] alunos, int totalAluno, int alunosCadastrados)
+        public void CadastrarAluno(Alunos[] aluno, int totalAluno, int alunosCadastrados)
         {
             if(totalAluno < alunosCadastrados)
             {
@@ -29,8 +25,8 @@ namespace teste
                 Console.Write("DT Nascimento:");
                 DateTime dtNascimento = DateTime.Parse(Console.ReadLine());
 
-                Aluno novoAluno = new Aluno();
-                novoAlunoAluno.Nome = nome;
+                Alunos novoAluno = new Alunos();
+                novoAluno.Nome = nome;
                 novoAluno.DataNascimento = dtNascimento;
 
                 int index = 0;
@@ -64,7 +60,7 @@ namespace teste
         }
         public void VerificarAlunos()
         {
-
+            
         }
     }   
 }

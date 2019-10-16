@@ -6,7 +6,7 @@ namespace cliente
     {
         static void Main(string[] args)
         {
-            cliente Cliente1 = new Cliente("jose","55 55 5555-5555","ze@email.com");
+            cliente Cliente1 = new cliente ("jose","55 55 5555-5555","ze@email.com");
 
             Console.WriteLine("nome: " + Cliente1.Nome);
             Console.WriteLine("Telefone: " + Cliente1.Telefone);

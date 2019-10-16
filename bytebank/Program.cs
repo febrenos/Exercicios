@@ -15,6 +15,8 @@ namespace bytebank
             string Email = Console.ReadLine();
 
             Cliente cliente1 = new Cliente(Nome,Cpf,Email);
+            Console.WriteLine(cliente1.Senha);
+            cliente1.senha
 
             bool trocouSenha = false;
             do{
@@ -28,6 +30,16 @@ namespace bytebank
                 }
 
             }while(!trocouSenha); // usa o "!" para que o lupe seje verdadeiro
+            Console.WriteLine();
+            #endregion
+            #region Cadastro da Conta.
+            Console.WriteLine("ByteBank - Cadastro da conta");
+            Console.Write();
+            int agencia = int.Parse(Console.ReadLine());
+            Console.Write();
+            int conta = int.Parse(Console.ReadLine());
+
+            ContaCorrente contacorrente1 = new ContaCorrente(agencia,conta,cliente1);
         }
     }
 }
