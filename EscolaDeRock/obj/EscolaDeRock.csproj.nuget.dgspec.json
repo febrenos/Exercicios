@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\52734673819\\Documents\\Exerc-cios\\EscolaDeRock\\musica.csproj": {}
+    "C:\\Users\\52734673819\\Documents\\Exerc-cios\\EscolaDeRock\\EscolaDeRock.csproj": {}
   },
   "projects": {
-    "C:\\Users\\52734673819\\Documents\\Exerc-cios\\EscolaDeRock\\musica.csproj": {
+    "C:\\Users\\52734673819\\Documents\\Exerc-cios\\EscolaDeRock\\EscolaDeRock.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\52734673819\\Documents\\Exerc-cios\\EscolaDeRock\\musica.csproj",
-        "projectName": "musica",
-        "projectPath": "C:\\Users\\52734673819\\Documents\\Exerc-cios\\EscolaDeRock\\musica.csproj",
+        "projectUniqueName": "C:\\Users\\52734673819\\Documents\\Exerc-cios\\EscolaDeRock\\EscolaDeRock.csproj",
+        "projectName": "EscolaDeRock",
+        "projectPath": "C:\\Users\\52734673819\\Documents\\Exerc-cios\\EscolaDeRock\\EscolaDeRock.csproj",
         "packagesPath": "C:\\Users\\52734673819\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\52734673819\\Documents\\Exerc-cios\\EscolaDeRock\\obj\\",
         "projectStyle": "PackageReference",

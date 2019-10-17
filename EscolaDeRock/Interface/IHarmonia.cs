@@ -1,9 +1,9 @@
 using System;
 
-namespace EscolaDeRock.Interfaces
+namespace EscolaDeRock.Interface
 {
     public interface IHarmonia
-    {
+    {   
         bool TocarAcordes();
     }
 }
