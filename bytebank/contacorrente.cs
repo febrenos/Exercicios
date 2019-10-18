@@ -8,11 +8,6 @@ namespace ByteBank {
         
             get { return _Saldo;}
         }
-        public string Cpf
-        {
-            get { return _Cpf; }
-            set { _Cpf = Value; }
-        }
         public ContaCorrente (int Agencia, int Numero, string Titular) {
             this.Agencia = Agencia;
             this.Numero = Numero;
@@ -20,10 +15,11 @@ namespace ByteBank {
             this.Saldo = 0.0;
         }
         public double Deposito (double valor) {
+            this.Saldo += valor;
             return this.Saldo += valor;
         }
         public bool Saque (double valor) {
-            if (this.Saldo >= valor) {
+            if (this.Saldo >= this.Saldo) {
                 this.Saldo -= valor;
                 return true;
             } else {

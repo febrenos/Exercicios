@@ -89,7 +89,7 @@ namespace EscolaDeRock
                     
                 }while(!formacaoEscolhida);
             }while(!querSair);
-         #endregion   
+        #endregion   
         }
     }
 }
