@@ -12,7 +12,7 @@ namespace EscolaDeRock
         QUARTETO
     };
 
-    enum InstrumentosEnum : int
+    enum copoEnum : int
     {
         BAIXO,
         BATERIA,
@@ -35,7 +35,7 @@ namespace EscolaDeRock
         {
             bool querSair = true;
             string[] itensMenuPrincipal = Enum.GetNames(typeof(FormacaoEnum));
-            string[] itensMenuCategoria = Enum.GetNames(typeof(FormacaoEnum));
+            string[] itensMenuCategoria = Enum.GetNames(typeof(CategoriaEnum));
 
             var opcoesFormacao = new List<string>()
             {
