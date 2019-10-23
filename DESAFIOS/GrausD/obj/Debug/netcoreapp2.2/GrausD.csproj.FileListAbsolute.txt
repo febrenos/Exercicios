@@ -1,0 +1,11 @@
+C:\Users\52734673819\Documents\Exerc-cios\DESAFIOS\GrausD\bin\Debug\netcoreapp2.2\GrausD.deps.json
+C:\Users\52734673819\Documents\Exerc-cios\DESAFIOS\GrausD\bin\Debug\netcoreapp2.2\GrausD.runtimeconfig.json
+C:\Users\52734673819\Documents\Exerc-cios\DESAFIOS\GrausD\bin\Debug\netcoreapp2.2\GrausD.runtimeconfig.dev.json
+C:\Users\52734673819\Documents\Exerc-cios\DESAFIOS\GrausD\bin\Debug\netcoreapp2.2\GrausD.dll
+C:\Users\52734673819\Documents\Exerc-cios\DESAFIOS\GrausD\bin\Debug\netcoreapp2.2\GrausD.pdb
+C:\Users\52734673819\Documents\Exerc-cios\DESAFIOS\GrausD\obj\Debug\netcoreapp2.2\GrausD.csprojAssemblyReference.cache
+C:\Users\52734673819\Documents\Exerc-cios\DESAFIOS\GrausD\obj\Debug\netcoreapp2.2\GrausD.csproj.CoreCompileInputs.cache
+C:\Users\52734673819\Documents\Exerc-cios\DESAFIOS\GrausD\obj\Debug\netcoreapp2.2\GrausD.AssemblyInfoInputs.cache
+C:\Users\52734673819\Documents\Exerc-cios\DESAFIOS\GrausD\obj\Debug\netcoreapp2.2\GrausD.AssemblyInfo.cs
+C:\Users\52734673819\Documents\Exerc-cios\DESAFIOS\GrausD\obj\Debug\netcoreapp2.2\GrausD.dll
+C:\Users\52734673819\Documents\Exerc-cios\DESAFIOS\GrausD\obj\Debug\netcoreapp2.2\GrausD.pdb
