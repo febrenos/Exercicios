@@ -1,0 +1,11 @@
+C:\Users\52734673819\Documents\Exerc-cios\DESAFIOS\TrocaValor\bin\Debug\netcoreapp2.2\TrocaValor.deps.json
+C:\Users\52734673819\Documents\Exerc-cios\DESAFIOS\TrocaValor\bin\Debug\netcoreapp2.2\TrocaValor.runtimeconfig.json
+C:\Users\52734673819\Documents\Exerc-cios\DESAFIOS\TrocaValor\bin\Debug\netcoreapp2.2\TrocaValor.runtimeconfig.dev.json
+C:\Users\52734673819\Documents\Exerc-cios\DESAFIOS\TrocaValor\bin\Debug\netcoreapp2.2\TrocaValor.dll
+C:\Users\52734673819\Documents\Exerc-cios\DESAFIOS\TrocaValor\bin\Debug\netcoreapp2.2\TrocaValor.pdb
+C:\Users\52734673819\Documents\Exerc-cios\DESAFIOS\TrocaValor\obj\Debug\netcoreapp2.2\TrocaValor.csprojAssemblyReference.cache
+C:\Users\52734673819\Documents\Exerc-cios\DESAFIOS\TrocaValor\obj\Debug\netcoreapp2.2\TrocaValor.csproj.CoreCompileInputs.cache
+C:\Users\52734673819\Documents\Exerc-cios\DESAFIOS\TrocaValor\obj\Debug\netcoreapp2.2\TrocaValor.AssemblyInfoInputs.cache
+C:\Users\52734673819\Documents\Exerc-cios\DESAFIOS\TrocaValor\obj\Debug\netcoreapp2.2\TrocaValor.AssemblyInfo.cs
+C:\Users\52734673819\Documents\Exerc-cios\DESAFIOS\TrocaValor\obj\Debug\netcoreapp2.2\TrocaValor.dll
+C:\Users\52734673819\Documents\Exerc-cios\DESAFIOS\TrocaValor\obj\Debug\netcoreapp2.2\TrocaValor.pdb
