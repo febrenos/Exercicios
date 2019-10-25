@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\52734673819\\Documents\\Exerc-cios\\DESAFIOS\\Impares\\Impares.csproj",
+      "projectUniqueName": "C:\\Users\\52734673819\\Documents\\Exerc-cios\\DESAFIOS\\7 Impares\\Impares.csproj",
       "projectName": "Impares",
-      "projectPath": "C:\\Users\\52734673819\\Documents\\Exerc-cios\\DESAFIOS\\Impares\\Impares.csproj",
+      "projectPath": "C:\\Users\\52734673819\\Documents\\Exerc-cios\\DESAFIOS\\7 Impares\\Impares.csproj",
       "packagesPath": "C:\\Users\\52734673819\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\52734673819\\Documents\\Exerc-cios\\DESAFIOS\\Impares\\obj\\",
+      "outputPath": "C:\\Users\\52734673819\\Documents\\Exerc-cios\\DESAFIOS\\7 Impares\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

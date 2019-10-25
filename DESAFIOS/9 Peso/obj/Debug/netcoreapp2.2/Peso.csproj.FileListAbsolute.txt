@@ -1,0 +1,11 @@
+C:\Users\52734673819\Documents\Exerc-cios\DESAFIOS\9 Peso\bin\Debug\netcoreapp2.2\Peso.deps.json
+C:\Users\52734673819\Documents\Exerc-cios\DESAFIOS\9 Peso\bin\Debug\netcoreapp2.2\Peso.runtimeconfig.json
+C:\Users\52734673819\Documents\Exerc-cios\DESAFIOS\9 Peso\bin\Debug\netcoreapp2.2\Peso.runtimeconfig.dev.json
+C:\Users\52734673819\Documents\Exerc-cios\DESAFIOS\9 Peso\bin\Debug\netcoreapp2.2\Peso.dll
+C:\Users\52734673819\Documents\Exerc-cios\DESAFIOS\9 Peso\bin\Debug\netcoreapp2.2\Peso.pdb
+C:\Users\52734673819\Documents\Exerc-cios\DESAFIOS\9 Peso\obj\Debug\netcoreapp2.2\Peso.csprojAssemblyReference.cache
+C:\Users\52734673819\Documents\Exerc-cios\DESAFIOS\9 Peso\obj\Debug\netcoreapp2.2\Peso.csproj.CoreCompileInputs.cache
+C:\Users\52734673819\Documents\Exerc-cios\DESAFIOS\9 Peso\obj\Debug\netcoreapp2.2\Peso.AssemblyInfoInputs.cache
+C:\Users\52734673819\Documents\Exerc-cios\DESAFIOS\9 Peso\obj\Debug\netcoreapp2.2\Peso.AssemblyInfo.cs
+C:\Users\52734673819\Documents\Exerc-cios\DESAFIOS\9 Peso\obj\Debug\netcoreapp2.2\Peso.dll
+C:\Users\52734673819\Documents\Exerc-cios\DESAFIOS\9 Peso\obj\Debug\netcoreapp2.2\Peso.pdb

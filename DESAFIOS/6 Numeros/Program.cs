@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace Numeros
+﻿namespace Numeros
 {
     class Program
     {
