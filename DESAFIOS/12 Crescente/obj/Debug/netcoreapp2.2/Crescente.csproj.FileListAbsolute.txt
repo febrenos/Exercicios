@@ -1,0 +1,11 @@
+F:\Exerc-cios\DESAFIOS\12 Crescente\bin\Debug\netcoreapp2.2\Crescente.deps.json
+F:\Exerc-cios\DESAFIOS\12 Crescente\bin\Debug\netcoreapp2.2\Crescente.runtimeconfig.json
+F:\Exerc-cios\DESAFIOS\12 Crescente\bin\Debug\netcoreapp2.2\Crescente.runtimeconfig.dev.json
+F:\Exerc-cios\DESAFIOS\12 Crescente\bin\Debug\netcoreapp2.2\Crescente.dll
+F:\Exerc-cios\DESAFIOS\12 Crescente\bin\Debug\netcoreapp2.2\Crescente.pdb
+F:\Exerc-cios\DESAFIOS\12 Crescente\obj\Debug\netcoreapp2.2\Crescente.csprojAssemblyReference.cache
+F:\Exerc-cios\DESAFIOS\12 Crescente\obj\Debug\netcoreapp2.2\Crescente.csproj.CoreCompileInputs.cache
+F:\Exerc-cios\DESAFIOS\12 Crescente\obj\Debug\netcoreapp2.2\Crescente.AssemblyInfoInputs.cache
+F:\Exerc-cios\DESAFIOS\12 Crescente\obj\Debug\netcoreapp2.2\Crescente.AssemblyInfo.cs
+F:\Exerc-cios\DESAFIOS\12 Crescente\obj\Debug\netcoreapp2.2\Crescente.dll
+F:\Exerc-cios\DESAFIOS\12 Crescente\obj\Debug\netcoreapp2.2\Crescente.pdb

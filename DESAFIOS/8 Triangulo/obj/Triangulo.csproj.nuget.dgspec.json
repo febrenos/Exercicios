@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\52734673819\\Documents\\Exerc-cios\\DESAFIOS\\8 Triangulo\\Triangulo.csproj": {}
+    "F:\\Exerc-cios\\DESAFIOS\\8 Triangulo\\Triangulo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\52734673819\\Documents\\Exerc-cios\\DESAFIOS\\8 Triangulo\\Triangulo.csproj": {
+    "F:\\Exerc-cios\\DESAFIOS\\8 Triangulo\\Triangulo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\52734673819\\Documents\\Exerc-cios\\DESAFIOS\\8 Triangulo\\Triangulo.csproj",
+        "projectUniqueName": "F:\\Exerc-cios\\DESAFIOS\\8 Triangulo\\Triangulo.csproj",
         "projectName": "Triangulo",
-        "projectPath": "C:\\Users\\52734673819\\Documents\\Exerc-cios\\DESAFIOS\\8 Triangulo\\Triangulo.csproj",
+        "projectPath": "F:\\Exerc-cios\\DESAFIOS\\8 Triangulo\\Triangulo.csproj",
         "packagesPath": "C:\\Users\\52734673819\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\52734673819\\Documents\\Exerc-cios\\DESAFIOS\\8 Triangulo\\obj\\",
+        "outputPath": "F:\\Exerc-cios\\DESAFIOS\\8 Triangulo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,0 +1,11 @@
+F:\Exerc-cios\DESAFIOS\16 Imc\obj\Debug\netcoreapp2.2\Imc.csprojAssemblyReference.cache
+F:\Exerc-cios\DESAFIOS\16 Imc\obj\Debug\netcoreapp2.2\Imc.csproj.CoreCompileInputs.cache
+F:\Exerc-cios\DESAFIOS\16 Imc\obj\Debug\netcoreapp2.2\Imc.AssemblyInfoInputs.cache
+F:\Exerc-cios\DESAFIOS\16 Imc\obj\Debug\netcoreapp2.2\Imc.AssemblyInfo.cs
+F:\Exerc-cios\DESAFIOS\16 Imc\bin\Debug\netcoreapp2.2\Imc.deps.json
+F:\Exerc-cios\DESAFIOS\16 Imc\bin\Debug\netcoreapp2.2\Imc.runtimeconfig.json
+F:\Exerc-cios\DESAFIOS\16 Imc\bin\Debug\netcoreapp2.2\Imc.runtimeconfig.dev.json
+F:\Exerc-cios\DESAFIOS\16 Imc\bin\Debug\netcoreapp2.2\Imc.dll
+F:\Exerc-cios\DESAFIOS\16 Imc\bin\Debug\netcoreapp2.2\Imc.pdb
+F:\Exerc-cios\DESAFIOS\16 Imc\obj\Debug\netcoreapp2.2\Imc.dll
+F:\Exerc-cios\DESAFIOS\16 Imc\obj\Debug\netcoreapp2.2\Imc.pdb

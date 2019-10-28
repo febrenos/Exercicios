@@ -9,3 +9,14 @@ C:\Users\52734673819\Documents\Exerc-cios\DESAFIOS\8 Triangulo\bin\Debug\netcore
 C:\Users\52734673819\Documents\Exerc-cios\DESAFIOS\8 Triangulo\bin\Debug\netcoreapp2.2\Triangulo.pdb
 C:\Users\52734673819\Documents\Exerc-cios\DESAFIOS\8 Triangulo\obj\Debug\netcoreapp2.2\Triangulo.dll
 C:\Users\52734673819\Documents\Exerc-cios\DESAFIOS\8 Triangulo\obj\Debug\netcoreapp2.2\Triangulo.pdb
+F:\Exerc-cios\DESAFIOS\8 Triangulo\bin\Debug\netcoreapp2.2\Triangulo.deps.json
+F:\Exerc-cios\DESAFIOS\8 Triangulo\bin\Debug\netcoreapp2.2\Triangulo.runtimeconfig.json
+F:\Exerc-cios\DESAFIOS\8 Triangulo\bin\Debug\netcoreapp2.2\Triangulo.runtimeconfig.dev.json
+F:\Exerc-cios\DESAFIOS\8 Triangulo\bin\Debug\netcoreapp2.2\Triangulo.dll
+F:\Exerc-cios\DESAFIOS\8 Triangulo\bin\Debug\netcoreapp2.2\Triangulo.pdb
+F:\Exerc-cios\DESAFIOS\8 Triangulo\obj\Debug\netcoreapp2.2\Triangulo.csprojAssemblyReference.cache
+F:\Exerc-cios\DESAFIOS\8 Triangulo\obj\Debug\netcoreapp2.2\Triangulo.csproj.CoreCompileInputs.cache
+F:\Exerc-cios\DESAFIOS\8 Triangulo\obj\Debug\netcoreapp2.2\Triangulo.AssemblyInfoInputs.cache
+F:\Exerc-cios\DESAFIOS\8 Triangulo\obj\Debug\netcoreapp2.2\Triangulo.AssemblyInfo.cs
+F:\Exerc-cios\DESAFIOS\8 Triangulo\obj\Debug\netcoreapp2.2\Triangulo.dll
+F:\Exerc-cios\DESAFIOS\8 Triangulo\obj\Debug\netcoreapp2.2\Triangulo.pdb

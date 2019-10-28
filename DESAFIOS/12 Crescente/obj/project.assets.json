@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\52734673819\\Documents\\Exerc-cios\\DESAFIOS\\Crescente\\Crescente.csproj",
+      "projectUniqueName": "F:\\Exerc-cios\\DESAFIOS\\12 Crescente\\Crescente.csproj",
       "projectName": "Crescente",
-      "projectPath": "C:\\Users\\52734673819\\Documents\\Exerc-cios\\DESAFIOS\\Crescente\\Crescente.csproj",
+      "projectPath": "F:\\Exerc-cios\\DESAFIOS\\12 Crescente\\Crescente.csproj",
       "packagesPath": "C:\\Users\\52734673819\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\52734673819\\Documents\\Exerc-cios\\DESAFIOS\\Crescente\\obj\\",
+      "outputPath": "F:\\Exerc-cios\\DESAFIOS\\12 Crescente\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

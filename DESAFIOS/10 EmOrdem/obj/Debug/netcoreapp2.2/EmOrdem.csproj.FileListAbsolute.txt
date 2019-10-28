@@ -1,0 +1,10 @@
+F:\Exerc-cios\DESAFIOS\10 EmOrdem\bin\Debug\netcoreapp2.2\EmOrdem.deps.json
+F:\Exerc-cios\DESAFIOS\10 EmOrdem\bin\Debug\netcoreapp2.2\EmOrdem.runtimeconfig.json
+F:\Exerc-cios\DESAFIOS\10 EmOrdem\bin\Debug\netcoreapp2.2\EmOrdem.runtimeconfig.dev.json
+F:\Exerc-cios\DESAFIOS\10 EmOrdem\bin\Debug\netcoreapp2.2\EmOrdem.dll
+F:\Exerc-cios\DESAFIOS\10 EmOrdem\bin\Debug\netcoreapp2.2\EmOrdem.pdb
+F:\Exerc-cios\DESAFIOS\10 EmOrdem\obj\Debug\netcoreapp2.2\EmOrdem.csprojAssemblyReference.cache
+F:\Exerc-cios\DESAFIOS\10 EmOrdem\obj\Debug\netcoreapp2.2\EmOrdem.AssemblyInfoInputs.cache
+F:\Exerc-cios\DESAFIOS\10 EmOrdem\obj\Debug\netcoreapp2.2\EmOrdem.AssemblyInfo.cs
+F:\Exerc-cios\DESAFIOS\10 EmOrdem\obj\Debug\netcoreapp2.2\EmOrdem.dll
+F:\Exerc-cios\DESAFIOS\10 EmOrdem\obj\Debug\netcoreapp2.2\EmOrdem.pdb

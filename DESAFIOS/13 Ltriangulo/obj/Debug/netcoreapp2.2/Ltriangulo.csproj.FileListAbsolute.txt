@@ -1,0 +1,10 @@
+F:\Exerc-cios\DESAFIOS\13 Ltriangulo\bin\Debug\netcoreapp2.2\Ltriangulo.deps.json
+F:\Exerc-cios\DESAFIOS\13 Ltriangulo\bin\Debug\netcoreapp2.2\Ltriangulo.runtimeconfig.json
+F:\Exerc-cios\DESAFIOS\13 Ltriangulo\bin\Debug\netcoreapp2.2\Ltriangulo.runtimeconfig.dev.json
+F:\Exerc-cios\DESAFIOS\13 Ltriangulo\bin\Debug\netcoreapp2.2\Ltriangulo.dll
+F:\Exerc-cios\DESAFIOS\13 Ltriangulo\bin\Debug\netcoreapp2.2\Ltriangulo.pdb
+F:\Exerc-cios\DESAFIOS\13 Ltriangulo\obj\Debug\netcoreapp2.2\Ltriangulo.csprojAssemblyReference.cache
+F:\Exerc-cios\DESAFIOS\13 Ltriangulo\obj\Debug\netcoreapp2.2\Ltriangulo.AssemblyInfoInputs.cache
+F:\Exerc-cios\DESAFIOS\13 Ltriangulo\obj\Debug\netcoreapp2.2\Ltriangulo.AssemblyInfo.cs
+F:\Exerc-cios\DESAFIOS\13 Ltriangulo\obj\Debug\netcoreapp2.2\Ltriangulo.dll
+F:\Exerc-cios\DESAFIOS\13 Ltriangulo\obj\Debug\netcoreapp2.2\Ltriangulo.pdb

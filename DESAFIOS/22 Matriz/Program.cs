@@ -6,7 +6,8 @@ namespace Matriz
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            System.Console.WriteLine("Matriz 3x3");
+            int[,] num = new int[3,3];
         }
     }
 }

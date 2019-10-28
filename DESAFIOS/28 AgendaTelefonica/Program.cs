@@ -6,7 +6,11 @@ namespace AgendaTelefonica
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Agenda Telefônica");
+            private string Nome;
+            private string Telefone;
+            private string Aniversario;
+
         }
     }
 }

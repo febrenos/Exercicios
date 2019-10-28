@@ -1,12 +1,14 @@
 ﻿using System;
 
-namespace Ntrezentos
-{
-    class Program
-    {
-        static void Main(string[] args)
+namespace Peso {
+    class Program {
+        static void Main (string[] args) 
         {
-            Console.WriteLine("Hello World!");
+            System.Console.WriteLine("Números de 120 á 300");
+            for (int i = 120; i <= 300; i++ )
+            { 
+                System.Console.Write(" " + i);
+            } 
         }
     }
 }
