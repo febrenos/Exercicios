@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\52734673819\\Documents\\Exerc-cios\\DESAFIOS\\AgendaTelefonica\\AgendaTelefonica.csproj": {}
+    "C:\\Users\\52734673819\\Documents\\Exerc-cios\\DESAFIOS\\28 AgendaTelefonica\\AgendaTelefonica.csproj": {}
   },
   "projects": {
-    "C:\\Users\\52734673819\\Documents\\Exerc-cios\\DESAFIOS\\AgendaTelefonica\\AgendaTelefonica.csproj": {
+    "C:\\Users\\52734673819\\Documents\\Exerc-cios\\DESAFIOS\\28 AgendaTelefonica\\AgendaTelefonica.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\52734673819\\Documents\\Exerc-cios\\DESAFIOS\\AgendaTelefonica\\AgendaTelefonica.csproj",
+        "projectUniqueName": "C:\\Users\\52734673819\\Documents\\Exerc-cios\\DESAFIOS\\28 AgendaTelefonica\\AgendaTelefonica.csproj",
         "projectName": "AgendaTelefonica",
-        "projectPath": "C:\\Users\\52734673819\\Documents\\Exerc-cios\\DESAFIOS\\AgendaTelefonica\\AgendaTelefonica.csproj",
+        "projectPath": "C:\\Users\\52734673819\\Documents\\Exerc-cios\\DESAFIOS\\28 AgendaTelefonica\\AgendaTelefonica.csproj",
         "packagesPath": "C:\\Users\\52734673819\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\52734673819\\Documents\\Exerc-cios\\DESAFIOS\\AgendaTelefonica\\obj\\",
+        "outputPath": "C:\\Users\\52734673819\\Documents\\Exerc-cios\\DESAFIOS\\28 AgendaTelefonica\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

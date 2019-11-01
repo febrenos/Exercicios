@@ -17,7 +17,7 @@ namespace Verbo
             System.Console.WriteLine("Digite o segundo Verbo: ");
             string nome1 = Console.ReadLine();
             System.Console.WriteLine("Digite o terceiro Verbo: ");
-            string nome1 = Console.ReadLine();
+            string nome2 = Console.ReadLine();
 
             int compare = string.Compare(nome, nome1);
 

@@ -1,0 +1,11 @@
+C:\Users\52734673819\Documents\Exerc-cios\DESAFIOS\HoradoTapa\bin\Debug\netcoreapp2.2\HoradoTapa.deps.json
+C:\Users\52734673819\Documents\Exerc-cios\DESAFIOS\HoradoTapa\bin\Debug\netcoreapp2.2\HoradoTapa.runtimeconfig.json
+C:\Users\52734673819\Documents\Exerc-cios\DESAFIOS\HoradoTapa\bin\Debug\netcoreapp2.2\HoradoTapa.runtimeconfig.dev.json
+C:\Users\52734673819\Documents\Exerc-cios\DESAFIOS\HoradoTapa\bin\Debug\netcoreapp2.2\HoradoTapa.dll
+C:\Users\52734673819\Documents\Exerc-cios\DESAFIOS\HoradoTapa\bin\Debug\netcoreapp2.2\HoradoTapa.pdb
+C:\Users\52734673819\Documents\Exerc-cios\DESAFIOS\HoradoTapa\obj\Debug\netcoreapp2.2\HoradoTapa.csprojAssemblyReference.cache
+C:\Users\52734673819\Documents\Exerc-cios\DESAFIOS\HoradoTapa\obj\Debug\netcoreapp2.2\HoradoTapa.csproj.CoreCompileInputs.cache
+C:\Users\52734673819\Documents\Exerc-cios\DESAFIOS\HoradoTapa\obj\Debug\netcoreapp2.2\HoradoTapa.AssemblyInfoInputs.cache
+C:\Users\52734673819\Documents\Exerc-cios\DESAFIOS\HoradoTapa\obj\Debug\netcoreapp2.2\HoradoTapa.AssemblyInfo.cs
+C:\Users\52734673819\Documents\Exerc-cios\DESAFIOS\HoradoTapa\obj\Debug\netcoreapp2.2\HoradoTapa.dll
+C:\Users\52734673819\Documents\Exerc-cios\DESAFIOS\HoradoTapa\obj\Debug\netcoreapp2.2\HoradoTapa.pdb
