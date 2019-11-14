@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\52734673819\\Documents\\Exerc-cios\\McBonaldsMVC\\McBonaldsMVC.csproj": {}
+    "F:\\ESTUDOS SENAI\\Programação\\McBonaldsMVC\\McBonaldsMVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\52734673819\\Documents\\Exerc-cios\\McBonaldsMVC\\McBonaldsMVC.csproj": {
+    "F:\\ESTUDOS SENAI\\Programação\\McBonaldsMVC\\McBonaldsMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\52734673819\\Documents\\Exerc-cios\\McBonaldsMVC\\McBonaldsMVC.csproj",
+        "projectUniqueName": "F:\\ESTUDOS SENAI\\Programação\\McBonaldsMVC\\McBonaldsMVC.csproj",
         "projectName": "McBonaldsMVC",
-        "projectPath": "C:\\Users\\52734673819\\Documents\\Exerc-cios\\McBonaldsMVC\\McBonaldsMVC.csproj",
+        "projectPath": "F:\\ESTUDOS SENAI\\Programação\\McBonaldsMVC\\McBonaldsMVC.csproj",
         "packagesPath": "C:\\Users\\52734673819\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\52734673819\\Documents\\Exerc-cios\\McBonaldsMVC\\obj\\",
+        "outputPath": "F:\\ESTUDOS SENAI\\Programação\\McBonaldsMVC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
