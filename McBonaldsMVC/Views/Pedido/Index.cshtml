@@ -1,7 +1,7 @@
 @model McBonaldsMVC.ViewModels.PedidoViewModel
 <main>
         <h2>Pede aí, jovem!</h2>
-        <form method="POST" asp-action="Index" asp-controller="Registrar">
+        <form method="POST"asp-controller="Pedido" asp-action="Index">
             <div>
                 <label for="nome">Nome Completo</label>
                 <br />
@@ -42,8 +42,10 @@
                     <label for="shake">Shake</label>
                     <select id="shake" name="shake">
                         <option value="" disabled selected>Selecione</option>
-                        <option value="chocolete">Chocolate</option>
-                        <option value="biscoito">Biscoito</option>
+                        @foreach (var s in Model.Shake)
+                        {
+                            <option value=@s.Nome>@s.Nome por @s.Preco</option>
+                        }
                     </select>
                 </div>
             </div>

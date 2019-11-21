@@ -7,10 +7,24 @@ namespace McBonaldsMVC.Repositories
     public class HamburguerRepository
     {
         private const string PATH = "Database/Hamburguer.csv";
-
+        public double ObterPrecoDe(string nomeHamburguer)
+        {
+            var lista = ObterTodos(); //variavel lista = armazena as informaçoes
+            var preco = 0.0;
+            foreach (var item in lista)
+            {
+                if(item.Nome.Equals(nomeHamburguer)) // sde o nome que o ususario digitar for igual
+                {
+                    preco = item.Preco;
+                    break;
+                }
+            }
+                return preco;
+        }
         public List <Hamburguer> ObterTodos()
         {
             List<Hamburguer> hamburgueres = new List<Hamburguer>();
+
             string[] linhas = File.ReadAllLines(PATH);
             foreach(var linha in linhas)
             {

@@ -1,5 +1,9 @@
+@model MCBonaldsMVC.ViewModels.RespostaViewModel
 <main>
-    <h2> 
-        @ViewData["Action"] Deu ruim!
+    <h2>
+        @ViewData["Action"] deu ruim!
     </h2>
+    <p>
+        @Model.Mensagem //mensagem de erro para o usuario
+    </p>
 </main>
