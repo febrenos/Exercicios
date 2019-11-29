@@ -33,11 +33,11 @@ namespace McBonaldsMVC
 
 
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
-            services.AddSession(opitions =>
-            {
-                opitions.IdleTimeout = TimeSpan.FromSeconds(15);
-                opitions.Cookie.IsEssential = true;
-            });
+            services.AddSession(option => {option.IdleTimeout = TimeSpan.FromSeconds(10);
+            option.Cookie.IsEssential = true;});
+
+            
+            
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -57,6 +57,7 @@ namespace McBonaldsMVC
             app.UseHttpsRedirection();
             app.UseStaticFiles();
             app.UseCookiePolicy();
+            app.UseSession();
 
             app.UseMvc(routes =>
             {
